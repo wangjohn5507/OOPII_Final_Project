@@ -14,24 +14,24 @@
 8. Prepare: Randomed the card deck.
 9. Primary: Controlled the process of the whole game.
 10. Round: Controlled the process of dealing cards.
-11. Rule：放置所有項目之規則介紹。
-12. RunGameCard：執行每張遊戲卡的技能。
-13. RunPlayer：讀取及更新各個玩家更細部的參數。
-14. Sdg：建立遊戲開始前 SDG 小故事介面。
-15. StartPanel：開始介面，包含進入遊戲及查看規則。
-16. UpdateBlood：更新玩家血量。
-17. UpdateHandCard：更新玩家手牌數量。
-18. UpdatePanel：更新玩家所選遊戲卡牌。
-19. UpdateStatus：更新現階段遊戲狀態。
-20. WhoisDemoFrame：遊戲進入畫面，並可實際進行遊戲操作。
+11. Rule: All rules description.
+12. RunGameCard: Implemented every card's function.
+13. RunPlayer: Read and Updated player's status while playing the game.
+14. Sdg: Established the SDG story interface before the game start.
+15. StartPanel: The initial page which including the "start" and the "rule" button.
+16. UpdateBlood：Updated player's blood status.
+17. UpdateHandCard: Updated player's card volume status.
+18. UpdatePanel: Updated card's information after player choose the card. 
+19. UpdateStatus: Updated the game status.
+20. WhoisDemoFrame: Listened to the whole game's event, and called the corresponding function.
 
 ## How to run?
 
-Step 1: Download "OOPII_Project_Final" folder and unzip it.<br>
-Step 2: Open Visial Studio Code.<br>
-Step 3: Open the "OOPII_Project_Final" folder.<br>
-Step 4: Select the file called "StartPanel.java".<br>
-Step 5: Press F5 button, and if the game window shows mean it works great!<br>
+**Step 1:** Download "OOPII_Project_Final" folder and unzip it.<br>
+**Step 2:** Open Visial Studio Code.<br>
+**Step 3:** Open the "OOPII_Project_Final" folder.<br>
+**Step 4:** Select the file called "StartPanel.java".<br>
+**Step 5:** Press F5 button, and if the game window shows mean it works great!<br>
 
 ## Outcome
 **Intial page**<br>
