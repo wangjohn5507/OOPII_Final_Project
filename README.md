@@ -1,14 +1,19 @@
-#各檔案性質
-1. Card：建立各卡片按鈕。
-2. Computer：操作電腦玩家回合之動作。
-3. DrawCardPanel：規則介紹之卡片敘述。
-4. DrawCharacterPanel：規則介紹之人物敘述
-5. DrawIdentifyPanel：規則介紹之身分敘述。
-6. DrawRulePanel：規則介紹之遊戲規則敘述。
-7. Player：建立各玩家的按鈕。
-8. Prepare：亂數分配所有種類牌卡。
-9. Primary：負責整個遊戲的流程，開始、進行與結束。
-10. Round：控制發牌。
+# OOPII Final Project
+* Designed a window game which concepts were adapted from the board game called “Bang!”.
+* Implemented game functions and events with Java programming.
+* Designed and visualized the GUI interface.
+
+## The purpose of files
+1. Card: Established each card button.
+2. Computer: Implemented CPU players strategies.
+3. DrawCardPanel: Implemented the GUI of cards description.
+4. DrawCharacterPanel: Implemented the GUI of characters description.
+5. DrawIdentifyPanel: Implemented the GUI of roles description.
+6. DrawRulePanel: Implemented the GUI of rules description.
+7. Player: Established each player button.
+8. Prepare: Randomed the card deck.
+9. Primary: Controlled the process of the whole game.
+10. Round: Controlled the process of dealing cards.
 11. Rule：放置所有項目之規則介紹。
 12. RunGameCard：執行每張遊戲卡的技能。
 13. RunPlayer：讀取及更新各個玩家更細部的參數。
@@ -20,26 +25,33 @@
 19. UpdateStatus：更新現階段遊戲狀態。
 20. WhoisDemoFrame：遊戲進入畫面，並可實際進行遊戲操作。
 
-#如何安裝執行環境及執行遊戲
+## How to run?
 
-Step 1：上網下載 Visual Studio code安裝檔
+Step 1: Download "OOPII_Project_Final" folder and unzip it.<br>
+Step 2: Open Visial Studio Code.<br>
+Step 3: Open the "OOPII_Project_Final" folder.<br>
+Step 4: Select the file called "StartPanel.java".<br>
+Step 5: Press F5 button, and if the game window shows mean it works great!<br>
 
-Step 2：下載完後點開執行，授權合約點選我同意並按下一步
+## Outcome
+**Intial page**<br>
+![Alt text](https://github.com/wangjohn5507/OOPII_Final_Project/blob/main/Resource/begin.png?raw=true)
 
-Step 3：按下安裝
+**Press "Rule" button, the following page will show.**<br>
+![Alt_text](https://github.com/wangjohn5507/OOPII_Final_Project/blob/main/Resource/rule.png?raw=true)
 
-Step 4：重新啟動電腦
+**Press "Card" button, you can browse the other cards desciption.**<br>
+![Alt_text](https://github.com/wangjohn5507/OOPII_Final_Project/blob/main/Resource/return.png?raw=true)
 
-Step 5：解壓縮 "OOPII_Project_Final.zip" 檔案
+**Press "Back to Start" button can return to the beginning page.**<br>
+![Alt_text](https://github.com/wangjohn5507/OOPII_Final_Project/blob/main/Resource/begin.png?raw=true)
 
-Step 6：打開 Visual Studio code
+**Press "Start" button to start the game.**<br>
+![Alt_text](https://github.com/wangjohn5507/OOPII_Final_Project/blob/main/Resource/startgame.png?raw=true)
 
-Step 7：按下最上方選項欄檔案選項，然後按下打開資料夾
+**Press the card button below the page, it will show on the upper left of the window.**<br>
+![Alt_text](https://github.com/wangjohn5507/OOPII_Final_Project/blob/main/Resource/process.png?raw=true)
 
-Step 8：選取名稱為 "OOPII_Project_Final" 資料夾
 
-Step 9：點選左方名為 "StartPanel.java" 的檔案
-
-Step 10：按下F5後，出現遊戲畫面則表示成功執行遊戲
 
 
