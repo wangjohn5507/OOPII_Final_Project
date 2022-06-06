@@ -52,6 +52,14 @@ Step 5: Press F5 button, and if the game window shows mean it works great!<br>
 **Press the card button below the page, it will show on the upper left of the window.**<br>
 ![Alt_text](https://github.com/wangjohn5507/OOPII_Final_Project/blob/main/Resource/process.png?raw=true)
 
+## Additional notice
+* **After choosing the card you want to use, press "confirm" button to use it.**<br>
+* **If the card requires selecting a character, after pressing "confirm" button, you still need to click a target character to make the card effect activate.**<br>
+* **You can cancel your selection any time during your round.**<br>
+* **Press the "end" button if you finish your round. The system will determine whether you need to abandone your cards by your hand cards volume.**<br>
+* **After you finish your round, the CPU players will start their movements based on the strategy written in "computer" file.**
+
+
 
 
 
